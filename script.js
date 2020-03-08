@@ -3,6 +3,8 @@
 var input = document.getElementById("userinput");
 var button = document.getElementById("enter");
 var ul = document.querySelector("ul");
+var deleteButton = document.getElementsByClassName("delete")
+
 
 
 /// Here I created a function to get the length of the users input.
